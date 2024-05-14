@@ -6,4 +6,5 @@ Project objective: The primary objective of the music store is to achieve sustai
 
 Database and Tools:
 Postgre SQL
+
 PgAdmin4
